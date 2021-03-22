@@ -1,0 +1,12 @@
+.btn-success{
+    background: linear-gradient(45deg,black,lime);
+}
+.btn-warning{
+    background: linear-gradient(45deg,black,red);
+}
+.btn-danger{
+    background: linear-gradient(45deg,yellow,purple);
+}
+.table tbody tr td {
+    font-weight: bold;
+}
